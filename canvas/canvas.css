@@ -1,0 +1,9 @@
+body{
+    display: flex;
+}
+.Scrollbar{
+    background-color: #333; /* Black background color */
+    position: fixed; /* Make it stick/fixed */
+    width: 25%; /* Full width */
+    transition: top 0.3s; /* Transition effect when sliding down (and up) */
+}
